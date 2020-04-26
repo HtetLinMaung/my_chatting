@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "832243006642",
+    "firebase_url": "https://mychatting-3490b.firebaseio.com",
+    "project_id": "mychatting-3490b",
+    "storage_bucket": "mychatting-3490b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832243006642:android:a5fc824a3b10b1d1449dab",
+        "android_client_info": {
+          "package_name": "com.htetlinmaung.mychatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832243006642-tr7nj2j0a90uo5lv8sf7b4m3chavl6pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfUExylpjKYhklGLSRjSRX6ADCGusNY-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832243006642-tr7nj2j0a90uo5lv8sf7b4m3chavl6pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
