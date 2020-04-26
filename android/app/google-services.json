@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "832243006642",
-    "firebase_url": "https://mychatting-3490b.firebaseio.com",
-    "project_id": "mychatting-3490b",
-    "storage_bucket": "mychatting-3490b.appspot.com"
+    "project_number": "851283969317",
+    "firebase_url": "https://my-chatting-565f5.firebaseio.com",
+    "project_id": "my-chatting-565f5",
+    "storage_bucket": "my-chatting-565f5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:832243006642:android:a5fc824a3b10b1d1449dab",
+        "mobilesdk_app_id": "1:851283969317:android:6f2f55021c488fd8b686cc",
         "android_client_info": {
-          "package_name": "com.htetlinmaung.mychatting"
+          "package_name": "com.htetlinmaung.my_chatting"
         }
       },
       "oauth_client": [
         {
-          "client_id": "832243006642-tr7nj2j0a90uo5lv8sf7b4m3chavl6pn.apps.googleusercontent.com",
+          "client_id": "851283969317-hd7093tel49kodmipf31o4ak0l7eb2r5.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDfUExylpjKYhklGLSRjSRX6ADCGusNY-4"
+          "current_key": "AIzaSyBbwxc2ih12DGkR9WSsnLMGLxvyGQ6Db78"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "832243006642-tr7nj2j0a90uo5lv8sf7b4m3chavl6pn.apps.googleusercontent.com",
+              "client_id": "851283969317-hd7093tel49kodmipf31o4ak0l7eb2r5.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
